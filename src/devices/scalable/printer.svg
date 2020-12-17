@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter2761" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14552168"/>
+  </filter>
+  <linearGradient id="linearGradient1024-6" x1="1.3315" x2="15.65" y1="15.576" y2="1.17" gradientTransform="translate(.084 .1879)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dddfe1" offset="0"/>
+   <stop stop-color="#f3f4f6" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m10.793 1.2379c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="#141414" filter="url(#filter2761)" opacity=".3"/>
+ <path d="m10.793 1.2379c4.405 0 5.0345 0.67282 5.0345 5.388v3.7761c0 4.7152-0.62954 5.388-5.0345 5.388h-4.4832c-4.405 0-5.0346-0.6728-5.0346-5.388v-3.7761c0-4.7152 0.62954-5.388 5.0346-5.388z" enable-background="new" fill="url(#linearGradient1024-6)"/>
+ <g transform="translate(-.20215 .33432)" fill="#d2d2d2" stroke-width=".27968">
+  <rect x="3.4395" y="2.8656" width=".55937" height=".55937" rx=".41953" ry=".41953"/>
+  <rect x="13.508" y="2.8656" width=".55937" height=".55937" rx=".41953" ry=".41953"/>
+  <rect x="13.508" y="12.934" width=".55937" height=".55937" rx=".41953" ry=".41953"/>
+  <rect x="3.4395" y="12.934" width=".55937" height=".55937" rx=".41953" ry=".41953"/>
+ </g>
+ <g transform="matrix(.022838 0 0 .022838 4.0603 4.023)">
+  <polygon points="255.55 18.365 324.64 87.445 255.55 87.445" fill="#f0f0f0"/>
+  <polygon points="255.55 87.445 324.64 87.445 324.64 196.36 68.64 196.36 68.64 18.365 255.55 18.365" fill="#fafafa"/>
+  <path d="m343.7 302.22v24.201c0 3.3277-2.6977 6.0244-6.0244 6.0244h-282.06c-3.3277 0-6.0244-2.6977-6.0244-6.0244v-24.201c0-3.3277 2.6977-6.0244 6.0244-6.0244h282.06c3.3277 0 6.0254 2.6977 6.0254 6.0244z" fill="#232323" stroke-width="1.0047"/>
+  <path d="m393.29 206.62v23.749h-393.29v-23.749c0-5.661 4.59-10.251 10.251-10.251h372.79c5.661 0 10.251 4.59 10.251 10.251z" fill="#dcdcdc"/>
+  <path d="m393.29 230.36v106.9c0 20.8-16.86 37.66-37.66 37.66h-317.97c-20.8 0-37.66-16.86-37.66-37.66v-106.9zm-50.28 96.004v-24.087c0-3.312-2.685-5.996-5.996-5.996h-280.73c-3.312 0-5.996 2.685-5.996 5.996v24.087c0 3.312 2.685 5.996 5.996 5.996h280.73c3.312 0 5.997-2.685 5.997-5.996z" fill="#323232"/>
+  <path d="m38 268.36c-2.63 0-5.21-1.07-7.07-2.93s-2.93-4.44-2.93-7.07 1.07-5.21 2.93-7.07 4.44-2.93 7.07-2.93 5.21 1.07 7.07 2.93c1.87 1.86 2.93 4.44 2.93 7.07s-1.06 5.21-2.93 7.07c-1.86 1.86-4.44 2.93-7.07 2.93z" fill="#d2d2d2"/>
+ </g>
+</svg>

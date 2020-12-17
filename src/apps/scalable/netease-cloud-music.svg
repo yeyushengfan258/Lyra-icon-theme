@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg26"
+   sodipodi:docname="netease-cloud-music.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="941"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="4.3862718"
+     inkscape:cx="-3.5095071"
+     inkscape:cy="42.431681"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <defs
+     id="defs12">
+    <filter
+       id="filter2761"
+       x="-.024"
+       y="-.024"
+       width="1.048"
+       height="1.048"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.14552168"
+         id="feGaussianBlur2" />
+    </filter>
+    <linearGradient
+       id="linearGradient4673"
+       x1="2.2495"
+       x2="15.644"
+       y1="14.536"
+       y2="1.1082"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-25.649158)">
+      <stop
+         stop-color="#ff7d50"
+         offset="0"
+         id="stop5" />
+      <stop
+         stop-color="#fa4b5a"
+         offset=".47728"
+         id="stop7" />
+      <stop
+         stop-color="#ff509b"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect899"
+     style="fill:#fb2c5d;fill-opacity:1;stroke-width:2;stroke-linecap:round"
+     d="M 40.806641 4.5 C 39.199283 4.521338 37.529916 4.9296577 35.947266 5.9472656 C 31.397427 8.868932 31.301756 12.980305 32.054688 15.355469 L 32.960938 18.572266 A 17.890479 17.890479 0 0 0 28.650391 20.388672 C 23.66293 23.329649 21.165149 28.304255 21.789062 34.005859 C 22.432618 39.868665 26.982266 44.126953 32.613281 44.126953 C 38.598231 44.126953 43.464844 39.443354 43.464844 33.683594 C 43.381201 32.312856 43.400093 32.32488 43.207031 31.095703 C 43.013969 29.898713 41.179688 24.261719 41.179688 24.261719 C 42.312309 24.519208 43.368018 24.923925 44.275391 25.490234 C 54.558962 31.92579 50.279056 42.177089 50.085938 42.621094 C 47.254339 49.166136 41.075993 53.079662 33.140625 53.34375 A 19.409 19.409 0 0 1 19.189453 48.105469 A 19.782578 19.782578 0 0 1 12.84375 33.689453 C 12.84375 25.53566 18.160142 18.134473 26.082031 15.277344 C 27.735953 14.678904 29.05977 12.980953 28.152344 11.011719 C 27.431596 9.4672294 25.489281 8.9263179 23.841797 9.53125 C 13.442134 13.283095 6.4589844 22.99453 6.4589844 33.683594 C 6.4589844 40.756266 9.484586 47.621557 14.761719 52.525391 A 25.870413 25.870413 0 0 0 33.373047 59.482422 C 43.760059 59.134698 52.209668 53.71631 55.974609 45.015625 C 58.32353 39.732169 59.635749 27.770196 47.755859 20.34375 L 47.75 20.339844 A 17.459132 17.459132 0 0 0 39.376953 17.863281 L 38.695312 15.474609 L 38.720703 15.501953 L 38.644531 15.291016 L 38.451172 14.582031 C 37.98771 12.535544 38.824682 11.564296 39.255859 11.216797 L 39.486328 11.056641 C 41.468442 9.7888412 44.274676 11.815248 44.435547 11.9375 C 45.684036 13.095867 47.968094 13.385754 49.197266 12.195312 C 50.445638 10.998322 50.150256 8.7516228 48.908203 7.5546875 C 47.576484 6.27161 44.342827 4.4530564 40.806641 4.5 z M 34.634766 24.490234 C 34.634766 24.490234 36.809252 31.145828 36.976562 32.175781 C 37.163203 33.314835 37.080078 33.681641 37.080078 33.681641 L 37.085938 33.681641 A 4.3889638 4.3889638 0 0 1 32.619141 37.986328 C 29.884099 37.986328 28.379324 35.585466 28.134766 33.365234 C 27.671397 29.11789 29.974621 26.807053 31.982422 25.623047 C 32.799729 25.140532 33.701591 24.766924 34.634766 24.490234 z "
+     transform="scale(0.26457812)" />
+  <circle
+     cx="-355.96"
+     cy="-323.89"
+     r="0"
+     fill="#5e4aa6"
+     stroke-width=".26236"
+     id="circle20" />
+  <circle
+     cx="-65.049"
+     cy="5.3223"
+     r="0"
+     fill="#5e4aa6"
+     fill-rule="evenodd"
+     stroke-width=".26236"
+     id="circle22" />
+</svg>

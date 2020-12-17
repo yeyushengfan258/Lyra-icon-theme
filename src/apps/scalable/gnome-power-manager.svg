@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1"
+   id="svg8"
+   sodipodi:docname="gnome-power-manager.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <filter
+       id="filter2761"
+       x="-.024"
+       y="-.024"
+       width="1.048"
+       height="1.048"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.14552168"
+         id="feGaussianBlur2" />
+    </filter>
+    <linearGradient
+       id="linearGradient1024"
+       x1="1.3315"
+       x2="14.217"
+       y1="15.576"
+       y2="2.6243"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#ff7d1e"
+         offset="0"
+         id="stop5" />
+      <stop
+         stop-color="#ffa53c"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="978"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="3.2460938"
+     inkscape:cx="32.172873"
+     inkscape:cy="45.633172"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g861"
+     transform="scale(3.779602)">
+    <rect
+       style="fill:#0a0a0a;fill-opacity:1;stroke-width:0.570733;stroke-linecap:round"
+       id="rect851"
+       width="14.551797"
+       height="11.906015"
+       x="1.1906016"
+       y="2.5134923" />
+    <g
+       transform="matrix(1.5545,0,0,1.5545,-4.0513,-5.1732)"
+       fill="#fff"
+       id="g22"
+       style="fill:#23afc8;fill-opacity:1">
+      <path
+         d="m 8.0531,5.7079 -1.622,3.5312 h 1.622 z"
+         id="path18"
+         style="fill:#23afc8;fill-opacity:1" />
+      <path
+         d="M 8.0531,11.66 9.6751,8.1288 H 8.0531 Z"
+         opacity="0.5"
+         id="path20"
+         style="fill:#23afc8;fill-opacity:1" />
+    </g>
+  </g>
+</svg>
