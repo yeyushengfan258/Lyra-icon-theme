@@ -27,13 +27,18 @@
      inkscape:window-height="978"
      id="namedview31"
      showgrid="false"
-     inkscape:zoom="6.4921875"
-     inkscape:cx="29.848157"
-     inkscape:cy="38.555298"
+     inkscape:zoom="3.2460937"
+     inkscape:cx="-35.303606"
+     inkscape:cy="75.36126"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg29" />
+     inkscape:current-layer="svg29"
+     inkscape:document-rotation="0"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-midpoints="true" />
   <defs
      id="defs5">
     <filter
@@ -87,23 +92,27 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="g888"
-     transform="translate(0,0.26457812)">
-    <rect
-       style="fill:#0a0a0a;fill-opacity:1;stroke-width:0.570733;stroke-linecap:round"
-       id="rect851"
-       width="14.551797"
-       height="11.906015"
-       x="1.1906016"
-       y="3.3072267" />
-    <rect
-       style="fill:#23afc8;fill-opacity:1;stroke-width:1.28235;stroke-linecap:round"
-       id="rect884"
-       width="8.4665003"
-       height="2.1166251"
-       x="1.1906016"
-       y="1.1906017"
-       ry="0" />
-  </g>
+  <rect
+     style="fill:#0a0a0a;fill-opacity:1;stroke-width:0.583278;stroke-linecap:round"
+     id="rect851"
+     width="14.551797"
+     height="12.435172"
+     x="1.1906016"
+     y="3.5718048" />
+  <rect
+     style="fill:#23afc8;fill-opacity:1;stroke-width:1.28235;stroke-linecap:round"
+     id="rect884"
+     width="8.4665003"
+     height="2.1166251"
+     x="1.1906016"
+     y="1.4551798"
+     ry="0" />
+  <rect
+     style="fill:#23afc8;fill-opacity:1;stroke-width:0.840587;stroke-linecap:round"
+     id="rect841"
+     width="14.551797"
+     height="0.52915627"
+     x="1.1906016"
+     y="6.0769916"
+     ry="0" />
 </svg>

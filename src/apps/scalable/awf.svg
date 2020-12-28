@@ -1,55 +1,200 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <filter id="filter943" x="-.062502" y="-.057691" width="1.125" height="1.1154" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.3307375"/>
-  </filter>
-  <style type="text/css"/>
-  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.61875"/>
-  </filter>
-  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.26458 0 0 .26458 34.792 -.13493)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#32d7ff" offset="0"/>
-   <stop stop-color="#329bff" offset="1"/>
-  </linearGradient>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
-  <style type="text/css"/>
- </defs>
- <rect transform="scale(.26458)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
- <rect x="1.1906" y="1.1906" width="14.552" height="14.552" ry="3.9687" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width=".72611"/>
- <g transform="matrix(.68362 0 0 .68362 2.679 2.6786)" fill="#14a5ff" filter="url(#filter943)">
-  <path d="m6.735 5.963 2.309-0.363-1.155-1.72-4.039 2.243m2.886-0.159m-2.31 4.796h2.309l3.463 0.573-2.886 0.573-2.886-0.573" opacity=".8"/>
-  <path d="m3.848 5.968h2.887v4.792h-2.887"/>
-  <path d="m10.776 1.587-8.66 2.294v9.172l8.66 2.293m-2.887-9.849v5.825l-3.463-0.565-0.018-4.803"/>
-  <path d="m10.776 1.587 4.04 1.72v10.319l-4.04 1.72"/>
- </g>
- <g transform="matrix(.68362 0 0 .68362 2.679 2.6786)">
-  <path d="m6.735 5.963 2.309-0.363-1.155-1.72-4.039 2.243m2.886-0.159m-2.31 4.796h2.309l3.463 0.573-2.886 0.573-2.886-0.573" fill="#bae4ff" opacity=".8"/>
-  <path d="m3.848 5.968h2.887v4.792h-2.887" fill="#fff"/>
-  <path d="m10.776 1.587-8.66 2.294v9.172l8.66 2.293m-2.887-9.849v5.825l-3.463-0.565-0.018-4.803" fill="#bae4ff"/>
-  <path d="m10.776 1.587 4.04 1.72v10.319l-4.04 1.72" fill="#fff"/>
- </g>
- <g fill="#5e4aa6">
-  <circle cx="-320.34" cy="-338.47" r="0" stroke-width=".26458"/>
-  <g stroke-width=".26458">
-   <circle cx="-289" cy="-348.87" r="0"/>
-   <circle cx="1.9158" cy="-14.051" r="0" fill-rule="evenodd"/>
-   <circle cx="-268.23" cy="-367.79" r="0"/>
-   <circle cx="22.685" cy="-32.962" r="0" fill-rule="evenodd"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg71"
+   sodipodi:docname="awf.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="978"
+     id="namedview73"
+     showgrid="false"
+     inkscape:zoom="6.4921875"
+     inkscape:cx="32.112725"
+     inkscape:cy="27.338559"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg71" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs31">
+    <filter
+       id="filter943"
+       x="-.062502"
+       y="-.057691"
+       width="1.125"
+       height="1.1154"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.3307375"
+         id="feGaussianBlur4" />
+    </filter>
+    <style
+       type="text/css"
+       id="style7" />
+    <filter
+       id="filter1057"
+       x="-.027"
+       y="-.027"
+       width="1.054"
+       height="1.054"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.61875"
+         id="feGaussianBlur9" />
+    </filter>
+    <linearGradient
+       id="linearGradient1053"
+       x1="-127"
+       x2="-72"
+       y1="60"
+       y2="5"
+       gradientTransform="matrix(.26458 0 0 .26458 34.792 -.13493)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#32d7ff"
+         offset="0"
+         id="stop12" />
+      <stop
+         stop-color="#329bff"
+         offset="1"
+         id="stop14" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style17" />
+    <style
+       type="text/css"
+       id="style19" />
+    <style
+       type="text/css"
+       id="style21" />
+    <style
+       type="text/css"
+       id="style23" />
+    <style
+       type="text/css"
+       id="style25" />
+    <style
+       type="text/css"
+       id="style27" />
+    <style
+       type="text/css"
+       id="style29" />
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.048"
+       width="1.048"
+       y="-.024"
+       x="-.024"
+       id="filter2761-3">
+      <feGaussianBlur
+         id="feGaussianBlur2"
+         stdDeviation="0.14552168" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7796 0 0 3.7796 -.0026448 .53066)"
+       y2="1.17"
+       y1="15.576"
+       x2="15.65"
+       x1="1.3315"
+       id="linearGradient1024">
+      <stop
+         id="stop5"
+         offset="0"
+         stop-color="#dddfe1" />
+      <stop
+         id="stop7"
+         offset="1"
+         stop-opacity=".99608"
+         stop-color="#f3f4f6" />
+    </linearGradient>
+  </defs>
+  <path
+     id="rect1339"
+     style="fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;paint-order:stroke fill markers;opacity:0.8"
+     d="M 29.693359 13.666016 L 13.548828 22.632812 L 25.080078 21.992188 L 34.310547 20.541016 L 29.693359 13.666016 z M 15.849609 41.167969 L 15.849609 43.458984 L 27.386719 45.748047 L 38.923828 43.458984 L 25.080078 41.167969 L 15.849609 41.167969 z "
+     transform="scale(0.26457812)" />
+  <path
+     id="rect1335"
+     style="fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;paint-order:stroke fill markers"
+     d="M 13.541016 22.011719 L 13.541016 41.167969 L 25.080078 41.167969 L 25.080078 22.011719 L 13.541016 22.011719 z "
+     transform="scale(0.26457812)" />
+  <path
+     id="rect1327"
+     style="fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;paint-order:stroke fill markers"
+     d="M 41.234375 4.5 L 41.234375 59.5 L 57.382812 52.625 L 57.382812 11.375 L 41.234375 4.5 z "
+     transform="scale(0.26457812)" />
+  <g
+     fill="#5e4aa6"
+     id="g69">
+    <circle
+       cx="-320.34"
+       cy="-338.47"
+       r="0"
+       stroke-width=".26458"
+       id="circle57" />
+    <g
+       stroke-width=".26458"
+       id="g67">
+      <circle
+         cx="-289"
+         cy="-348.87"
+         r="0"
+         id="circle59" />
+      <circle
+         cx="1.9158"
+         cy="-14.051"
+         r="0"
+         fill-rule="evenodd"
+         id="circle61" />
+      <circle
+         cx="-268.23"
+         cy="-367.79"
+         r="0"
+         id="circle63" />
+      <circle
+         cx="22.685"
+         cy="-32.962"
+         r="0"
+         fill-rule="evenodd"
+         id="circle65" />
+    </g>
   </g>
- </g>
+  <path
+     id="rect1331"
+     style="fill:#23afc8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;paint-order:stroke fill markers"
+     d="M 41.234375 4.5 L 6.6171875 13.669922 L 6.6171875 50.333984 L 41.234375 59.5 L 41.234375 4.5 z M 29.693359 20.128906 L 29.693359 43.414062 L 15.849609 41.15625 L 15.779297 21.957031 L 29.693359 20.128906 z "
+     transform="scale(0.26457812)" />
 </svg>
