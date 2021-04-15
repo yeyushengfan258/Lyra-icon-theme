@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Lyra
-THEME_VARIANTS=('' '-red' )
+THEME_VARIANTS=('' '-red' '-orange' )
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
