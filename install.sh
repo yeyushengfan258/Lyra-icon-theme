@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Lyra
-THEME_VARIANTS=('' '-red' '-orange' '-purple' '-pink' '-rose' '-blue' )
+THEME_VARIANTS=('' '-red' '-orange' '-purple' '-pink' '-rose' '-blue' '-widow' )
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
@@ -193,6 +193,9 @@ while [[ $# -gt 0 ]]; do
       ;;
     -rose)
       theme="-rose"
+      ;;
+    -widow)
+      theme="-widow"
       ;;
     -h|--help)
       usage
